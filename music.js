@@ -44,6 +44,30 @@ const music_list = [
         name : 'Dành cho em',
         artist : 'Hoàng Tôn',
         music : './AUDIO/Dành Cho Em.mp3'
+    },
+    {
+        img : './IMAGE/pic5.jpg',
+        name : '凶夢伝染',
+        artist : ' ALI PROJECT',
+        music : './AUDIO/Kyoumu Densen.mp3'
+    },
+     {
+        img : './IMAGE/pic6.png',
+        name : 'あとひとつ',
+        artist : 'FUNKY MONKEY BABYS',
+        music : './AUDIO/あとひとつ.mp3'
+    },
+     {
+        img : './IMAGE/pic7.jpg',
+        name : '恋をしたのは',
+        artist : 'aiko',
+        music : './AUDIO/English + Vietsub  Koi Wo Shita No Wa _ Koe No Katachi OST.mp3'
+    },
+    {
+        img : './IMAGE/pic8.png',
+        name : 'Cảm Nắng-Làm Bạn Nha Anh',
+        artist : 'Quốc Việt ft. Ngọc Anh',
+        music : './AUDIO/[Mashup][AMV] Yêu Lần Đầu.mp3'
     }
 ];
 
