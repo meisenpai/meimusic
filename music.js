@@ -55,7 +55,7 @@ const music_list = [
         img : './IMAGE/pic6.png',
         name : 'あとひとつ',
         artist : 'FUNKY MONKEY BABYS',
-        music : './AUDIO/あとひとつ.mp3'
+        music : './AUDIO/FUNKY MONKEY BABYS あとひとつ.mp3'
     },
      {
         img : './IMAGE/pic7.jpg',
